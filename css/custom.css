@@ -1,4 +1,4 @@
-.avatar image {
-    width: 20px;
-    height: 20px;
+.avatar .img-dim {
+    width: 20px !important;
+    height: 20px !important;
 }
